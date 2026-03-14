@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.pink-background{
+    background-color: rgb(255, 135, 135);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#blue_text{
+    color: rgb(0, 26, 255);
+    font-size: 36px;
+}
+.font{
+    font-size: 24px;
+}
+
+#number4{
+    background-color:rgb(174, 255, 158);
+    font-size: 24px;
+    font-weight: bold;
+}
